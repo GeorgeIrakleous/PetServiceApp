@@ -1,6 +1,6 @@
-# PetApp_Project
+# PetServiceApp
 
-**PetApp_Project** is a full-stack native application developed as part of my thesis project. It is built using React Native for the frontend, Node.js with Express for the backend, and MongoDB Atlas for the database. The application is designed to help users find service providers for their pets, while also offering users the opportunity to become service providers and earn money through the platform.
+**PetServiceApp** is a full-stack native application developed as part of my thesis project. It is built using React Native for the frontend, Node.js with Express for the backend, and MongoDB Atlas for the database. The application is designed to help users find service providers for their pets, while also offering users the opportunity to become service providers and earn money through the platform.
 
 This repository contains the complete code for the project along with all the instructions needed to set up, run, and customize the application. This version is sanitized for public release—sensitive data has been replaced with placeholders.
 
