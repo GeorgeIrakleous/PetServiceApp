@@ -1,6 +1,8 @@
 # PetApp_Project
 
-**PetApp_Project** is a [brief description of your project]. This repository contains the complete code for the project along with all the instructions needed to set up, run, and customize the application. This version is sanitized for public release—sensitive data has been replaced with placeholders.
+**PetApp_Project** is a full-stack native application developed as part of my thesis project. It is built using React Native for the frontend, Node.js with Express for the backend, and MongoDB Atlas for the database. The application is designed to help users find service providers for their pets, while also offering users the opportunity to become service providers and earn money through the platform.
+
+This repository contains the complete code for the project along with all the instructions needed to set up, run, and customize the application. This version is sanitized for public release—sensitive data has been replaced with placeholders.
 
 ## Table of Contents
 
@@ -18,18 +20,22 @@
 
 ## Features
 
-- **User Authentication:** Secure login and registration.
-- **Data Management:** CRUD operations for managing pet information.
-- **API Integration:** Communicate with external services using secure API endpoints.
-- **Responsive UI:** A clean and responsive design for both mobile and desktop views.
+- **User Authentication:** Secure sign in and sign up functionality.
+- **Service Advertisements:** Users can create public service ads, allowing available service providers to view and respond with offers.
+- **Dual Role Functionality:** Users can register as service providers to earn money, as well as use the platform to find pet services.
+- **In-App Chat System:** Enables direct communication between users and service providers.
+- **Review System:** Allows users to review service providers, ensuring quality and trust.
+- **Deal Making:** Facilitates direct negotiation and deal finalization between users and service providers.
+- **Full-Stack Architecture:** Combines a React Native frontend, a Node.js/Express backend, and MongoDB Atlas for robust data management.
+
+*Note: This version of the app is still under development and is not production-ready. Some functionalities may be incomplete and security measures need further refinement.*
 
 ## Prerequisites
 
 - **Node.js** and **npm/yarn**
-- **Git**: For version control.
+- **Git:** For version control.
 - **Expo CLI:** For running the frontend (install via `npm install -g expo-cli` or use `npx expo` commands)
-- [Other dependencies specific to your project]
-
+- [Any other dependencies specific to your project]
 ## Installation
 
 1. **Clone the Repository:**
