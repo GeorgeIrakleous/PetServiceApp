@@ -9,24 +9,24 @@ This repository contains the complete code for the project along with all the in
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/77f933ec-d1f9-457b-9b35-854409cb43c3" alt="Screen 1" width="420" height="790" />
+      <img src="https://github.com/user-attachments/assets/77f933ec-d1f9-457b-9b35-854409cb43c3" alt="Screen 1" width="460" height="790" />
     </td>   
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/66b41b32-5e51-459d-883c-ed64784201d9" alt="Screen 1" width="420" height="790" />
+      <img src="https://github.com/user-attachments/assets/66b41b32-5e51-459d-883c-ed64784201d9" alt="Screen 1" width="460" height="790" />
     </td>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/e2051eb2-d43b-4e3b-a608-3b9c784a8104" alt="Screen 2" width="420" height="790" />
+      <img src="https://github.com/user-attachments/assets/e2051eb2-d43b-4e3b-a608-3b9c784a8104" alt="Screen 2" width="460" height="790" />
     </td>    
   </tr>
   <tr>
     <td align="center">
-    <img src="https://github.com/user-attachments/assets/a3dee73d-ab64-4c72-81b6-8c333434d63d" alt="Screen 3" width="420" height="790" />
+    <img src="https://github.com/user-attachments/assets/a3dee73d-ab64-4c72-81b6-8c333434d63d" alt="Screen 3" width="460" height="790" />
     </td>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/2c025a2c-15d0-4ef9-8534-afb6e92882e1" alt="Screen 4" width="420" height="790" />
+      <img src="https://github.com/user-attachments/assets/2c025a2c-15d0-4ef9-8534-afb6e92882e1" alt="Screen 4" width="460" height="790" />
     </td>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/faba7a39-765f-42fd-a6d0-5e01cbe17330" alt="Screen 5" width="420" height="790" />
+      <img src="https://github.com/user-attachments/assets/faba7a39-765f-42fd-a6d0-5e01cbe17330" alt="Screen 5" width="460" height="790" />
     </td>  
   </tr>
 </table>
